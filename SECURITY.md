@@ -2,9 +2,8 @@
 
 The tools in this collection are intended for educational or informational purposes only. 
 
-## Reporting a Vulnerability
+## Reporting an error or code failure
 
-Use this section to tell people how to report a vulnerability.
 
 
 Copying and pasting in whole or some instructions contained in the relevant source codes and their execution is to be avoided. 
